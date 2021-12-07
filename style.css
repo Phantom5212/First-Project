@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: ;
 }
 h1 {
   color: black;
@@ -8,23 +8,24 @@ h1 {
   border-radius: 20px;
   font-size: 400%;
   background: linear-gradient(blue, white, blue);
-  font-family: cursive;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-li {
+.links {
   text-decoration: none;
   padding: 5px;
   list-style-type: none;
   font-size: 130%;
   display: inline-block;
-  align-items: center;
 }
 .about {
   text-align: center;
-  border: solid blue;
+  border: ridge blue;
   border-radius: 20px;
   contain: content;
   color: blue;
+  font-size: 125%;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 .summary {
   font-size: 20px;
