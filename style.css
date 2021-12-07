@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: black;
+  text-align: center;
+  border: solid;
+  border-radius: 20px;
+  font-size: 400%;
+  background: linear-gradient(blue, white, blue);
+  font-family: cursive;
+}
+
+li {
+  text-decoration: none;
+  padding: 5px;
+  list-style-type: none;
+  font-size: 130%;
+  display: inline-block;
+  align-items: center;
+}
+.about {
+  text-align: center;
+  border: solid blue;
+  border-radius: 20px;
+  contain: content;
+  color: blue;
+}
+.summary {
+  font-size: 20px;
+}
+.header2 {
+  font-size: 300%;
+}
+img {
+  height: 200px;
+  border-radius: 60px 60px 60px 60px;
+}
