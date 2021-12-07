@@ -38,3 +38,18 @@ img {
   height: 20%;
   border-radius: 10%;
 }
+.sobre {
+  text-align: center;
+  border: ridge blue;
+  border-radius: 20px;
+  contain: content;
+  color: blue;
+  font-size: 125%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.header3 {
+  font-size: 300%;
+}
+.summary2 {
+  font-size: 20px;
+}
