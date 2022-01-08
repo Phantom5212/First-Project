@@ -19,25 +19,7 @@ h1 {
   display: inline-block;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
-.about {
-  text-align: center;
-  border: ridge blue;
-  border-radius: 20px;
-  contain: content;
-  color: blue;
-  font-size: 125%;
-  font-family: Georgia, "Times New Roman", Times, serif;
-}
-.header2 {
-  font-size: 220%;
-}
-.summary {
-  font-size: 20px;
-}
-img {
-  height: 20%;
-  border-radius: 10%;
-}
+.about,
 .sobre {
   text-align: center;
   border: ridge blue;
@@ -47,9 +29,15 @@ img {
   font-size: 125%;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
+.header2,
 .header3 {
   font-size: 220%;
 }
+.summary,
 .summary2 {
   font-size: 20px;
+}
+img {
+  height: 20%;
+  border-radius: 10%;
 }
